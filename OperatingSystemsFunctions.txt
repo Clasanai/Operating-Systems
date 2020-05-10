@@ -1,0 +1,2 @@
+The operating system has an important function that works to be able to run multiple applications at one time. It can send information to hardware, an while waiting for that hardware to preform the action, it can move onto another action. Then, when the hardware signals that it is done with the task, it can return to that process and continue any actions needed.
+
